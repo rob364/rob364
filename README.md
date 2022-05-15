@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Roberta Lacerda
+## 👏Sou estudante de Analise e desenvolvimento de sistemas.
 ## 👏Hoje trabalho com teste de software, sou estagiaria.
 ## 😎Estou estudado Java e gostando muito.
 ## 💋Em busca de uma oportunidade para estagio para programação!
