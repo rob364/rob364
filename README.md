@@ -6,7 +6,7 @@
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css, python, c#,php e Java.
 
 <div>
-  <a href="https://github.com/rob364">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rob364&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob364&layout=compact&langs_count=16&theme=dark/">
 </div>
