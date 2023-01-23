@@ -2,7 +2,7 @@
 ## 👏Sou estudante de Analise e desenvolvimento de sistemas.
 ## 👏Hoje trabalho com teste de software, sou estagiaria.
 ## 😎Estou estudado JavaScript e gostando muito.
-## 💋Em busca de uma oportunidade para estagio para programação!
+## 💋Em busca de uma oportunidade para estagio no setor de desenvovimento programação!
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css, python, c#,php e Java.
 
 <div>
