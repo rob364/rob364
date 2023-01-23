@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Roberta Lacerda
 ## 👏Sou estudante de Analise e desenvolvimento de sistemas.
 ## 👏Hoje trabalho com teste de software, sou estagiaria.
-## 😎Estou estudado Java e gostando muito.
+## 😎Estou estudado JavaScript e gostando muito.
 ## 💋Em busca de uma oportunidade para estagio para programação!
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css, python, c#,php e Java.
 
