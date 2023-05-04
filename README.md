@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Roberta Lacerda
 ## 👏Sou estudante de Analise e desenvolvimento de sistemas.
-## 👏Hoje trabalho com teste de software, sou estagiaria.
+## 👏Hoje trabalho como desenvolvedora frontEnd mobili, sou freelancer.
 ## 😎Estou estudado JavaScript e gostando muito.
-## 💋Em busca de uma oportunidade para estagio no setor de desenvovimento programação!
-## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css, python, c#,php e Java.
+## 💋Em busca de uma vaga de fronEnd!
+## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css,reactNative.
 
 <div>
   <a href="https://github.com/rob364">
