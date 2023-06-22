@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Roberta Lacerda
 ## 👏Sou estudante de Analise e desenvolvimento de sistemas.
-## 👏Hoje trabalho como desenvolvedora frontEnd mobili, sou freelancer.
 ## 😎Estou estudado JavaScript e gostando muito.
 ## 💋Em busca de uma vaga de fronEnd!
+##   Aberta para vaga de suporte tecnico.
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css,reactNative.
 
 <div>
