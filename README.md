@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Roberta Lacerda
 ## 👏Sou estudante de Analise e desenvolvimento de sistemas.
 ## 😎Estou estudado JavaScript e gostando muito.
-## 💋EAberta para vaga de suporte tecnico e fronEnd!  
+## 💋Aberta para vaga de suporte tecnico e fronEnd!  
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css,reactNative.
 
 <div>
