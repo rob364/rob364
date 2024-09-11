@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Roberta Lacerda
-## 👏Sou estudante de Analise e desenvolvimento de sistemas.
-## 😎Estou estudado JavaScript e gostando muito.
-## 💋Aberta para vaga de suporte tecnico, fronEnd e web Designer!  
+## 👏Aprendiz! Conhecimento em Cypress.io web, detox mobile
+## 😎Analista de qualidade, fronEnd e web Designer!  
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css,reactNative.
 
 <div>
