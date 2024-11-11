@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Roberta Lacerda
 ## 👏Conhecimento em Cypress.io web, detox mobile
-## 😎Analista de qualidade, fronEnd e web Designer!  
+## 😎Analista de qualidade  
 ## 💖Tenho conhecimento em algumas linguagens: JavaScript, html, css,reactNative.
 
 <div>
